@@ -1,6 +1,5 @@
 ps = List();
 
-/* fills ps with all primes till 1000 */
 fill_primes(s) = 
 {
     local(step, n, d);
